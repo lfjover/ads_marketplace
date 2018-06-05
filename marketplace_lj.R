@@ -1,4 +1,3 @@
-setwd('~/Dropbox/data_science/twitter')
 library(tidyverse)
 
 df <- read_csv('twitter_marketplace_data.csv')
